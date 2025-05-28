@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "722997657550",
+    "project_id": "libra-connects",
+    "storage_bucket": "libra-connects.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722997657550:android:738224f4be95a35a4af59f",
+        "android_client_info": {
+          "package_name": "com.example.libraconnects_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_IZTuMQuY5Ap9HlZ2AJVmO7goS17aITI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
